@@ -87,10 +87,11 @@ IoT-enabled smart irrigation solution using **ML for efficient water management*
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kripalinigudadhe&theme=tokyonight" height="160"/>
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
