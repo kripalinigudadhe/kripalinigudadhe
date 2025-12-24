@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack Web Developer | Frontend Enthusiast | Problem Solver</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;Hackathon+Finalist;Always+Learning+New+Tech"/>
+</p>
+
+<p align="center">
 🎓 B.Tech CSE @ Government College of Engineering, Nagpur  
 <br/>
 📈 CGPA: <b>8.66 (Highest)</b>  
@@ -11,59 +15,76 @@
 
 ## 💫 About Me
 
-I’m a passionate **Full Stack Web Developer** focused on building **responsive, scalable, and user-centric web applications**.  
-I enjoy transforming ideas into real-world digital solutions using modern frontend and backend technologies.
+🚀 Passionate **Full Stack Web Developer** focused on building  
+**responsive, scalable, and user-centric web applications**.
 
-With strong fundamentals, hands-on project experience, and a growth mindset, I continuously explore new tools and frameworks to improve my craft.
+💡 I love transforming ideas into **real-world digital solutions** using modern technologies, AI/ML concepts, and clean UI practices.
+
+🌱 Constant learner | Hackathon enthusiast | Problem solver
 
 ---
 
 ## 💻 Tech Stack & Skills
 
-### 🚀 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚀 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,r,go,php&theme=dark"/>
+</p>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎨 Frontend Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs,flutter&theme=dark"/>
+</p>
 
-### ⚙️ Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express&theme=dark"/>
+</p>
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+### 🗄️ Databases & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,oracle,firebase,netlify&theme=dark"/>
+</p>
+
+### 🤖 AI / ML & Data
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma,linux&theme=dark"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 EduTrack
-Student management platform built using **Node.js & MongoDB** for attendance tracking and task management.
+📘 Student management platform using **Node.js & MongoDB** for attendance and task tracking.
 
 ### 🔹 SakhiSecure
-Women safety application developed with **Flask & MySQL**, featuring real-time location tracking and emergency alert systems.
+🛡️ Women safety application with **Flask & MySQL**, real-time location tracking & emergency alerts.
 
 ### 🔹 ConnectCare+ 🏆
-**Top 5 Finalist – YCC CodeRush**  
-AI-powered telehealth platform using **Python & Flask**.
+🥇 **Top 5 Finalist – YCC CodeRush**  
+AI-powered telehealth platform built with **Python & Flask**.
 
 ### 🔹 CareerSaarthi
-AI-driven career guidance system using **Flask & ML models** for personalized recommendations.
+🎯 AI-driven career guidance platform using **Flask & ML models**.
 
 ### 🔹 ZeroShieldAI
-Machine learning-based AI firewall for **dynamic cybersecurity threat detection**.
+🔐 Machine learning-based AI firewall for **dynamic cybersecurity threat detection**.
 
 ### 🔹 RainSmart
-IoT-enabled smart irrigation solution using **ML for efficient water management**.
+🌱 IoT-enabled smart irrigation system using **ML for efficient water management**.
 
 ---
 
@@ -71,27 +92,31 @@ IoT-enabled smart irrigation solution using **ML for efficient water management*
 
 🏅 **Top 5 Finalist – YCC CodeRush**  
 💡 **Participant – Smart India Hackathon 2025**  
-🧠 Presented projects at **HackSphere 2.0, AXIS’25, Technex, CIH, Ideathon, Hackathonix, Sitnovate**
+🧠 Presented projects at  
+**HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate**
 
 ### 👩‍💻 Internships
 
 **Web Development Intern – Oasis Infobyte**  
 - Built responsive websites  
-- Improved load speed by 25%
+- Improved load speed by **25%**
 
 **Backend Developer Intern – CodeTech**  
 - Developed Java backend modules  
-- Implemented RESTful APIs using OOP principles
+- Implemented RESTful APIs using OOP principles  
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kripalinigudadhe&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -103,7 +128,7 @@ IoT-enabled smart irrigation solution using **ML for efficient water management*
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/kripalinigudadhe">
@@ -119,4 +144,6 @@ IoT-enabled smart irrigation solution using **ML for efficient water management*
 
 ---
 
-✨ *Always learning, building, and pushing boundaries in tech.*
+<p align="center">
+✨ <b>Always learning, building, and pushing boundaries in tech.</b> ✨
+</p>
