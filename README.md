@@ -134,7 +134,7 @@ using modern web technologies and AI/ML concepts.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f5f2a,50:758A3F,100:6b7f38&height=120&section=footer"/>
   ✨ Calm • Elegant • Growing in Tech 🌿✨
 </div>
->
+
 
   
  
