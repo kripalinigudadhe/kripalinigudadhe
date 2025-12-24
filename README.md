@@ -1,24 +1,121 @@
-# 💫 About Me:
-👋 Hi, I’m Kripalini Gudadhe<br><br>🚀 Full Stack Web Developer | Frontend Enthusiast | Problem Solver<br>🎓 B.Tech CSE @ Government College of Engineering, Nagpur (CGPA: 8.66 – Highest)<br><br>I’m a passionate Full Stack Developer focused on building responsive, scalable, and user-centric web applications. I enjoy transforming ideas into real-world digital solutions using modern frontend and backend technologies. With strong fundamentals, hands-on project experience, and a growth mindset, I continuously explore new tools and frameworks to improve my craft.<br><br>💻 Tech Stack & Skills<br><br>Languages<br><br>Python | Java | C | C++ | JavaScript<br><br>Frontend<br><br>HTML5 | CSS3 | Bootstrap | Responsive UI Design<br><br>Backend<br><br>Flask | Node.js | RESTful APIs<br><br>Databases<br><br>MySQL<br><br>Tools & Platforms<br><br>Git | GitHub | Git Workflows | VS Code<br><br>🚀 Featured Projects<br><br>🔹 EduTrack<br>Student management platform built using Node.js & MongoDB for attendance tracking and task management.<br><br>🔹 SakhiSecure<br>Women safety application developed with Flask & MySQL, featuring real-time location tracking and emergency alert systems.<br><br>🔹 ConnectCare+ (Top 5 – YCC CodeRush)<br>AI-powered telehealth platform using Python & Flask to enable remote medical assistance and smart health insights.<br><br>🔹 CareerSaarthi<br>AI-driven career guidance system leveraging Flask and ML models for personalized career recommendations.<br><br>🔹 ZeroShieldAI<br>Machine learning–based AI firewall system for dynamic cybersecurity threat detection.<br><br>🔹 RainSmart<br>IoT-enabled smart irrigation solution using ML for efficient water management.<br><br>🏆 Achievements & Experience<br><br>🏅 Top 5 Finalist – YCC CodeRush (AI Telehealth Project)<br>💡 Participant – Smart India Hackathon 2025<br>🧠 Presented projects at HackSphere 2.0, AXIS’25, Technex, CIH, Ideathon, Hackathonix, Sitnovate<br><br>👩‍💻 Web Development Intern – Oasis Infobyte<br><br>Built responsive websites and improved load speed by 25%<br><br>👩‍💻 Backend Developer Intern – CodeTech<br><br>Developed Java backend modules and RESTful APIs using OOP principles<br><br>📫 Let’s Connect<br><br>🌐 GitHub: github.com/kripalinigudadhe<br><br>💼 LinkedIn: linkedin.com/in/kripalinigudadhe<br><br>✉️ Email: kripalinigudadhe@gmail.com<br><br>✨ Always learning, building, and pushing boundaries in tech.
+<h1 align="center">Hi 👋, I'm Kripalini Gudadhe</h1>
+<h3 align="center">Full Stack Web Developer | Frontend Enthusiast | Problem Solver</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kripalini Gudadhe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kripalinigudadhe3@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kripalinigudadhe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+🎓 B.Tech CSE @ Government College of Engineering, Nagpur  
+<br/>
+📈 CGPA: <b>8.66 (Highest)</b>  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kripalinigudadhe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I’m a passionate **Full Stack Web Developer** focused on building **responsive, scalable, and user-centric web applications**.  
+I enjoy transforming ideas into real-world digital solutions using modern frontend and backend technologies.
+
+With strong fundamentals, hands-on project experience, and a growth mindset, I continuously explore new tools and frameworks to improve my craft.
+
+---
+
+## 💻 Tech Stack & Skills
+
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 EduTrack
+Student management platform built using **Node.js & MongoDB** for attendance tracking and task management.
+
+### 🔹 SakhiSecure
+Women safety application developed with **Flask & MySQL**, featuring real-time location tracking and emergency alert systems.
+
+### 🔹 ConnectCare+ 🏆
+**Top 5 Finalist – YCC CodeRush**  
+AI-powered telehealth platform using **Python & Flask**.
+
+### 🔹 CareerSaarthi
+AI-driven career guidance system using **Flask & ML models** for personalized recommendations.
+
+### 🔹 ZeroShieldAI
+Machine learning-based AI firewall for **dynamic cybersecurity threat detection**.
+
+### 🔹 RainSmart
+IoT-enabled smart irrigation solution using **ML for efficient water management**.
+
+---
+
+## 🏆 Achievements & Experience
+
+🏅 **Top 5 Finalist – YCC CodeRush**  
+💡 **Participant – Smart India Hackathon 2025**  
+🧠 Presented projects at **HackSphere 2.0, AXIS’25, Technex, CIH, Ideathon, Hackathonix, Sitnovate**
+
+### 👩‍💻 Internships
+
+**Web Development Intern – Oasis Infobyte**  
+- Built responsive websites  
+- Improved load speed by 25%
+
+**Backend Developer Intern – CodeTech**  
+- Developed Java backend modules  
+- Implemented RESTful APIs using OOP principles
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kripalinigudadhe&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+<a href="https://github.com/kripalinigudadhe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/kripalinigudadhe">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:kripalinigudadhe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+✨ *Always learning, building, and pushing boundaries in tech.*
