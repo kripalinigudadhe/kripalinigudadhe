@@ -1,144 +1,75 @@
-<h1 align="center">Hi 👋, I'm Kripalini Gudadhe</h1>
-<h3 align="center">Full Stack Web Developer | Frontend Enthusiast | Problem Solver</h3>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kripalini%20Gudadhe&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&animation=fadeIn"/> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Frontend+UI+Enthusiast;Hackathon+Finalist;AI+%26+ML+Explorer;Always+Learning+New+Tech"/> </div>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;Hackathon+Finalist;Always+Learning+New+Tech"/>
-</p>
+🎓 B.Tech CSE @ Government College of Engineering, Nagpur
+📊 CGPA: 8.66 (Highest)
+🚀 Open to Internships & Collaboration
 
-<p align="center">
-🎓 B.Tech CSE @ Government College of Engineering, Nagpur  
-<br/>
-📈 CGPA: <b>8.66 (Highest)</b>  
-</p>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+🌈 About Me
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif"/>
 
----
+✨ I am a passionate Full Stack Web Developer who loves crafting
+beautiful UIs, scalable backends, and intelligent systems.
 
-## 💫 About Me
+💡 I enjoy converting real-world problems into impactful digital solutions using
+modern web technologies, AI/ML concepts, and performance-driven design.
 
-🚀 Passionate **Full Stack Web Developer** focused on building  
-**responsive, scalable, and user-centric web applications**.
+🔥 Hackathon-driven | Curious learner | Detail-oriented problem solver
 
-💡 I love transforming ideas into **real-world digital solutions** using modern technologies, AI/ML concepts, and clean UI practices.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+🧠 Tech Stack & Skills
+🚀 Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,r,go,php&theme=dark"/> </p>
+🎨 Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs,flutter&theme=dark"/> </p>
+⚙️ Backend & APIs
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/> </p>
+🗄️ Databases & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle,firebase,netlify&theme=dark"/> </p>
+🤖 AI / ML & Data Science
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> </p>
+🛠 Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux&theme=dark"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+🚀 Featured Projects
+🚧 Project	💡 Description
+EduTrack	Student management system using Node.js & MongoDB
+SakhiSecure	Women safety app with Flask + MySQL, GPS & alerts
+ConnectCare+ 🏆	AI telehealth platform – Top 5 @ YCC CodeRush
+CareerSaarthi	AI-driven career guidance using ML models
+ZeroShieldAI	ML-based adaptive cybersecurity firewall
+RainSmart	IoT + ML smart irrigation system
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+🏆 Achievements & Experience
 
-🌱 Constant learner | Hackathon enthusiast | Problem solver
+🏅 Top 5 Finalist – YCC CodeRush
+💡 Participant – Smart India Hackathon 2025
 
----
+🧠 Presented projects at:
+HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate
 
-## 💻 Tech Stack & Skills
+👩‍💻 Internships
 
-### 🚀 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,r,go,php&theme=dark"/>
-</p>
+🌐 Web Development Intern – Oasis Infobyte
+✔ Built responsive websites
+✔ Improved performance by 25%
 
-### 🎨 Frontend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs,flutter&theme=dark"/>
-</p>
+⚙️ Backend Developer Intern – CodeTech
+✔ Developed Java backend modules
+✔ Implemented REST APIs using OOP
 
-### ⚙️ Backend & APIs
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express&theme=dark"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=tokyonight"/> </p>
+💬 Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/kripalinigudadhe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> <a href="https://linkedin.com/in/kripalinigudadhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:kripalinigudadhe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-### 🗄️ Databases & Cloud
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,oracle,firebase,netlify&theme=dark"/>
-</p>
+✨ Always learning, building & pushing boundaries in tech ✨
 
-### 🤖 AI / ML & Data
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma,linux&theme=dark"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 EduTrack
-📘 Student management platform using **Node.js & MongoDB** for attendance and task tracking.
-
-### 🔹 SakhiSecure
-🛡️ Women safety application with **Flask & MySQL**, real-time location tracking & emergency alerts.
-
-### 🔹 ConnectCare+ 🏆
-🥇 **Top 5 Finalist – YCC CodeRush**  
-AI-powered telehealth platform built with **Python & Flask**.
-
-### 🔹 CareerSaarthi
-🎯 AI-driven career guidance platform using **Flask & ML models**.
-
-### 🔹 ZeroShieldAI
-🔐 Machine learning-based AI firewall for **dynamic cybersecurity threat detection**.
-
-### 🔹 RainSmart
-🌱 IoT-enabled smart irrigation system using **ML for efficient water management**.
-
----
-
-## 🏆 Achievements & Experience
-
-🏅 **Top 5 Finalist – YCC CodeRush**  
-💡 **Participant – Smart India Hackathon 2025**  
-🧠 Presented projects at  
-**HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate**
-
-### 👩‍💻 Internships
-
-**Web Development Intern – Oasis Infobyte**  
-- Built responsive websites  
-- Improved load speed by **25%**
-
-**Backend Developer Intern – CodeTech**  
-- Developed Java backend modules  
-- Implemented RESTful APIs using OOP principles  
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/kripalinigudadhe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com/in/kripalinigudadhe">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:kripalinigudadhe@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-✨ <b>Always learning, building, and pushing boundaries in tech.</b> ✨
-</p>
+</div>
