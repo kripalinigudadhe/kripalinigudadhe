@@ -14,119 +14,135 @@
 
 ---
 
-<div align="center">
-
-🎓 <b>B.Tech CSE</b> @ Government College of Engineering, Nagpur  
+<!-- ========================= SUMMARY ========================= -->
+<p align="center">
+🎓 <b>B.Tech CSE</b> · Government College of Engineering, Nagpur  
+<br/>
 📊 <b>CGPA:</b> 8.66 (Highest)  
-🚀 <b>Open to Internships | Collaboration | Hackathons</b>
+<br/>
+🚀 Open to <b>Internships · Collaboration · Hackathons</b>
+</p>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=2"/>
+---
 
 ## 👩‍💻 About Me
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif"/>
 
 I am a **passionate Full Stack Web Developer** with a strong focus on  
 **clean UI, scalable backend systems, and performance-driven design**.
 
-I enjoy transforming **real-world challenges** into  
-**user-friendly, reliable, and elegant digital solutions**  
-using modern web technologies and AI/ML concepts.
+I enjoy transforming real-world challenges into  
+**user-friendly, reliable, and elegant digital solutions** using  
+modern web technologies and AI/ML concepts.
 
-**Core traits:**  
-✔ Growth-oriented  
-✔ Hackathon-driven  
-✔ Detail-focused problem solver  
+**Growth-oriented · UI-focused · Problem Solver**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=2"/>
+---
 
-## 🧠 Tech Stack & Skills
+## 🧠 Tech Stack
 
-### 🚀 Programming Languages
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,r,go,php"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=light"/>
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs,flutter"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs&theme=light"/>
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=light"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle,firebase,netlify"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,netlify&theme=light"/>
 </p>
 
-### 🤖 AI / ML & Data Science
+### AI / ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-374151?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-6b7280?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-9ca3af?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-d1d5db?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-666?style=for-the-badge"/>
 </p>
 
-### 🛠 Tools & Platforms
+### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux&theme=light"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=2"/>
+---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|-------|------------|
-| **EduTrack** | Student management system using Node.js & MongoDB |
-| **SakhiSecure** | Women safety app with Flask + MySQL, GPS & alerts |
-| **ConnectCare+ 🏆** | AI telehealth platform – Top 5 @ YCC CodeRush |
-| **CareerSaarthi** | AI-driven career guidance using ML models |
-| **ZeroShieldAI** | ML-based adaptive cybersecurity firewall |
-| **RainSmart** | IoT + ML smart irrigation system |
+**EduTrack**  
+Student management platform using **Node.js & MongoDB** for attendance and task tracking.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=2"/>
+**SakhiSecure**  
+Women safety application built with **Flask & MySQL**, featuring real-time location tracking and emergency alerts.
+
+**ConnectCare+ 🏆**  
+AI-powered telehealth platform — **Top 5 Finalist, YCC CodeRush**.
+
+**CareerSaarthi**  
+AI-driven career guidance system using **ML models**.
+
+**ZeroShieldAI**  
+Machine-learning-based adaptive cybersecurity firewall.
+
+**RainSmart**  
+IoT-enabled smart irrigation system using ML for efficient water management.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Top 5 Finalist – YCC CodeRush**
+- 💡 **Participant – Smart India Hackathon 2025**
+- 🧠 Presented projects at  
+  *HackSphere · AXIS · Technex · CIH · Ideathon · Hackathonix*
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=111827&icon_color=374151&text_color=374151"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=374151&fire=9ca3af&currStreakLabel=374151"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=111827"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=2"/>
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/kripalinigudadhe">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge"/>
   </a>
   <a href="https://linkedin.com/in/kripalinigudadhe">
-    <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
   </a>
   <a href="mailto:kripalinigudadhe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-555?style=for-the-badge"/>
   </a>
 </p>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:f9fafb,100:d1d5db&height=110&section=footer"/>
-  <b>Clean • Professional • Built for Impact</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e4e7eb,100:f5f7fa&height=80&section=footer"/>
+  <br/>
+  <b>Clean • Minimal • Focused on Growth</b>
 </div>
