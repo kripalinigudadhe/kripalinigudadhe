@@ -1,22 +1,14 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-  &color=0:0b3d2e,50:14532d,100:064e3b
-  &height=230
-  &section=header
-  &text=Kripalini%20Gudadhe
-  &fontSize=44
-  &fontAlignY=35
-  &desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20UI%20Enthusiast%20|%20Problem%20Solver
-  &descAlignY=56
-  &animation=fadeIn
-  &fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:14532d,100:064e3b&height=230&section=header&text=Kripalini%20Gudadhe&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=56&animation=fadeIn&fontColor=ffffff"/>
 </div>
+
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=14532D&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+UI+Specialist;Hackathon+Finalist;AI+%26+ML+Explorer;Designing+Clean+Natural+Digital+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=14532D&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+UI+Specialist;Hackathon+Finalist;AI+%26+ML+Explorer;Designing+Clean+Professional+Digital+Experiences"/>
 </div>
+
 
 <div align="center">
 
@@ -137,10 +129,9 @@ using modern web technologies and AI/ML concepts.
 
 <!-- ======================= FOOTER BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-  &color=0:0b3d2e,50:14532d,100:064e3b
-  &height=120
-  &section=footer"/>
-  
-  ✨ **Calm • Elegant • Growing in Tech** 🌿✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:14532d,100:064e3b&height=120&section=footer"/>
+  ✨ Calm • Elegant • Growing in Tech 🌿✨
 </div>
+
+  
+ 
