@@ -109,14 +109,9 @@ AI-powered telehealth platform built with **Python & Flask**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kripalinigudadhe&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
