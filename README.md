@@ -1,10 +1,18 @@
+<!-- ========================= HEADER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:f9fafb,100:d1d5db&height=220&section=header&text=Kripalini%20Gudadhe&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=56&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f7fa,100:e4e7eb&height=120&section=header"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=374151&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+UI+Specialist;Hackathon+Finalist;AI+%26+ML+Explorer;Building+Clean+and+Scalable+Systems"/>
-</div>
+<h1 align="center">Kripalini Gudadhe</h1>
+<p align="center">
+  <b>Full Stack Web Developer</b> · Frontend UI Enthusiast · Problem Solver
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=6B7280&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+web+applications;Designing+intuitive+frontend+experiences;Always+learning+and+growing+in+tech"/>
+</p>
+
+---
 
 <div align="center">
 
