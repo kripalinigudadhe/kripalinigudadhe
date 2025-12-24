@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803d,50:16a34a,100:14532d&height=230&section=header&text=Kripalini%20Gudadhe&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=56&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:16a34a,75:facc15,100:166534&height=230&section=header&text=Kripalini%20Gudadhe&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=56&animation=fadeIn&fontColor=ffffff"/>
 </div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+UI+Specialist;Hackathon+Finalist;AI+%26+ML+Explorer;Designing+Clean+%26+Scalable+Systems"/> </div>
 <div align="center">
