@@ -1,25 +1,25 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kripalini%20Gudadhe&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&animation=fadeIn"/> </div>
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Frontend+UI+Enthusiast;Hackathon+Finalist;AI+%26+ML+Explorer;Always+Learning+New+Tech"/> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:facc15,100:16a34a&height=230&section=header&text=Kripalini%20Gudadhe&fontSize=44&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20Frontend%20UI%20Enthusiast%20|%20Problem%20Solver&descAlignY=56&animation=fadeIn"/> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+UI+Specialist;Hackathon+Finalist;AI+%26+ML+Explorer;Designing+Clean+%26+Scalable+Systems"/> </div>
 <div align="center">
 
 🎓 B.Tech CSE @ Government College of Engineering, Nagpur
 📊 CGPA: 8.66 (Highest)
-🚀 Open to Internships & Collaboration
+🚀 Open to Internships | Collaboration | Hackathons
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-🌈 About Me
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
+🌿 About Me
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif"/>
 
-✨ I am a passionate Full Stack Web Developer who loves crafting
-beautiful UIs, scalable backends, and intelligent systems.
+✨ I’m a passionate Full Stack Web Developer focused on building
+visually appealing, high-performance, and scalable applications.
 
-💡 I enjoy converting real-world problems into impactful digital solutions using
-modern web technologies, AI/ML concepts, and performance-driven design.
+💡 I love transforming complex real-world problems into
+clean digital experiences using modern web stacks and AI/ML concepts.
 
-🔥 Hackathon-driven | Curious learner | Detail-oriented problem solver
+🌱 Growth-oriented | Hackathon-driven | UI-focused problem solver
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🧠 Tech Stack & Skills
 🚀 Programming Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,r,go,php&theme=dark"/> </p>
@@ -30,46 +30,46 @@ modern web technologies, AI/ML concepts, and performance-driven design.
 🗄️ Databases & Cloud
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle,firebase,netlify&theme=dark"/> </p>
 🤖 AI / ML & Data Science
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-22C55E?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-FACC15?style=for-the-badge&logo=pandas&logoColor=000"/> <img src="https://img.shields.io/badge/Scikit--Learn-16A34A?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-14532D?style=for-the-badge"/> </p>
 🛠 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux&theme=dark"/> </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🚀 Featured Projects
-🚧 Project	💡 Description
-EduTrack	Student management system using Node.js & MongoDB
+🌟 Project	💡 Description
+EduTrack	Student management platform using Node.js & MongoDB
 SakhiSecure	Women safety app with Flask + MySQL, GPS & alerts
 ConnectCare+ 🏆	AI telehealth platform – Top 5 @ YCC CodeRush
 CareerSaarthi	AI-driven career guidance using ML models
 ZeroShieldAI	ML-based adaptive cybersecurity firewall
 RainSmart	IoT + ML smart irrigation system
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🏆 Achievements & Experience
 
 🏅 Top 5 Finalist – YCC CodeRush
 💡 Participant – Smart India Hackathon 2025
 
-🧠 Presented projects at:
+🧠 Presented at:
 HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate
 
 👩‍💻 Internships
 
 🌐 Web Development Intern – Oasis Infobyte
-✔ Built responsive websites
+✔ Built responsive, modern UIs
 ✔ Improved performance by 25%
 
 ⚙️ Backend Developer Intern – CodeTech
 ✔ Developed Java backend modules
-✔ Implemented REST APIs using OOP
+✔ Designed REST APIs using OOP principles
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=tokyonight"/> </p>
-💬 Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=22c55e&icon_color=facc15&text_color=ffffff"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=22c55e&fire=facc15&currStreakLabel=facc15"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=22c55e"/> </p>
+💬 Developer Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border_color=22c55e"/> </p>
 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/kripalinigudadhe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> <a href="https://linkedin.com/in/kripalinigudadhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:kripalinigudadhe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center"> <a href="https://github.com/kripalinigudadhe"><img src="https://img.shields.io/badge/GitHub-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/kripalinigudadhe"><img src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=000"/></a> <a href="mailto:kripalinigudadhe@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:facc15,100:16a34a&height=120&section=footer"/>
 
-✨ Always learning, building & pushing boundaries in tech ✨
+✨ Growing • Building • Innovating in Tech ✨
 
 </div>
