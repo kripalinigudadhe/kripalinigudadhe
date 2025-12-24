@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/> -->
 
 ---
 
@@ -37,7 +37,7 @@ using modern web technologies and AI/ML concepts.
 
 🌱 Growth-oriented | Hackathon-driven | UI-focused problem solver
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/> -->
 
 ---
 
@@ -80,7 +80,7 @@ using modern web technologies and AI/ML concepts.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux&theme=light"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/> -->
 
 ---
 
@@ -95,7 +95,7 @@ using modern web technologies and AI/ML concepts.
 | **ZeroShieldAI** | ML-based adaptive cybersecurity firewall |
 | **RainSmart** | IoT + ML smart irrigation system |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,100:14532d&height=3"/> -->
 
 ---
 
