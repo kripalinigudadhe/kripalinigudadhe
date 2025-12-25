@@ -12,15 +12,10 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🌿 About Me
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif"/>
-
-✨ I’m a passionate Full Stack Web Developer focused on building
-visually appealing, high-performance, and scalable applications.
-
-💡 I love transforming complex real-world problems into
-clean digital experiences using modern web stacks and AI/ML concepts.
-
-🌱 Growth-oriented | Hackathon-driven | UI-focused problem solver
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif" />
+I’m a passionate Full Stack Web Developer focused on building
+visually appealing, high-performance, and scalable applications. I love transforming complex real-world problems into
+clean digital experiences using modern web stacks and AI/ML concepts. <br>Growth-oriented | Hackathon-driven | UI-focused problem solver
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🧠 Tech Stack & Skills<br>
@@ -57,17 +52,17 @@ HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate 
 
 👩‍💻 Internships :
 
-🌐 Web Development Intern – Oasis Infobyte
-✔ Built responsive, modern UIs
-✔ Improved performance by 25%
+🌐 Web Development Intern – Oasis Infobyte<br>
+✔ Built responsive, modern UIs<br>
+✔ Improved performance by 25%<br>
 
-⚙️ Backend Developer Intern – CodeTech
-✔ Developed Java backend modules
-✔ Designed REST APIs using OOP principles
+⚙️ Backend Developer Intern – CodeTech<br>
+✔ Developed Java backend modules<br>
+✔ Designed REST APIs using OOP principles<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=22c55e&icon_color=facc15&text_color=ffffff"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=22c55e&fire=facc15&currStreakLabel=facc15"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=22c55e"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=22c55e&icon_color=facc15&text_color=ffffff"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=22c55e&fire=facc15&currStreakLabel=facc15"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=22c55e" /> </p>
 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/kripalinigudadhe"><img src="https://img.shields.io/badge/GitHub-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kripalini-gudadhe-245702295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=000"/></a> <a href="mailto:kripalinigudadhe@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:facc15,100:16a34a&height=120&section=footer"/>
