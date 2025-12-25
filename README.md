@@ -25,17 +25,15 @@ clean digital experiences using modern web stacks and AI/ML concepts.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🧠 Tech Stack & Skills
 🚀 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs,r,go,php&theme=dark"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark"/> </p>
 🎨 Frontend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,threejs,flutter&theme=dark"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,threejs&theme=dark"/> </p>
 ⚙️ Backend & APIs
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/> </p>
 🗄️ Databases & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,oracle,firebase,netlify&theme=dark"/> </p>
-🤖 AI / ML & Data Science
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-22C55E?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-FACC15?style=for-the-badge&logo=pandas&logoColor=000"/> <img src="https://img.shields.io/badge/Scikit--Learn-16A34A?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-14532D?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/> </p>
 🛠 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux&theme=dark"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark"/> </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🚀 Featured Projects
 🌟 Project	💡 Description
@@ -48,11 +46,12 @@ RainSmart	IoT + ML smart irrigation system
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🏆 Achievements & Experience
 
+🥈 2nd Place – WebCraft 2.0
 🏅 Top 5 Finalist – YCC CodeRush
 💡 Participant – Smart India Hackathon 2025
 
 🧠 Presented at:
-HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate
+HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate | Genathon | WebCradt2.0 | CodeRush
 
 👩‍💻 Internships
 
