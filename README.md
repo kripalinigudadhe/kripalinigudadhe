@@ -36,8 +36,8 @@ clean digital experiences using modern web stacks and AI/ML concepts.
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/> </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🚀 Featured Projects
-🌟 Project	💡 Description
-EduTrack — Student management and productivity platform using Node.js & MongoDB
+🌟 Project	💡 Description<br>
+EduTrack — Student management and productivity platform using Node.js & MongoDB<br>
 SakhiSecure — Women safety application with Flask, MySQL, real-time GPS tracking & emergency alerts
 ConnectCare+ 🏆 — AI-enabled telehealth platform, Top 5 finalist at YCC CodeRush Hackathon
 ChroniTwin — AI-powered digital twin system for memory preservation and identity insights
