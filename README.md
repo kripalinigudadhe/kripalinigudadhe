@@ -13,9 +13,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🌿 About Me
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif" />
-I’m a passionate Full Stack Web Developer focused on building
-visually appealing, high-performance, and scalable applications. I love transforming complex real-world problems into
-clean digital experiences using modern web stacks and AI/ML concepts. <br>Growth-oriented | Hackathon-driven | UI-focused problem solver
+I’m a passionate Full Stack Web Developer focused on building visually appealing, high-performance, and scalable applications.<br>
+I love transforming complex real-world problems into clean digital experiences using modern web stacks and AI/ML concepts. <br>
+Growth-oriented | Hackathon-driven | UI-focused problem solver
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🧠 Tech Stack & Skills<br>
@@ -60,7 +60,6 @@ HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate 
 ✔ Developed Java backend modules<br>
 ✔ Designed REST APIs using OOP principles<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=22c55e&icon_color=facc15&text_color=ffffff"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=22c55e&fire=facc15&currStreakLabel=facc15"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=22c55e" /> </p>
 🌐 Connect With Me
