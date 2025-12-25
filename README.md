@@ -35,26 +35,26 @@ clean digital experiences using modern web stacks and AI/ML concepts.
 🛠 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/> </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
-🚀 Featured Projects
-🌟 Project	💡 Description<br>
-EduTrack — Student management and productivity platform using Node.js & MongoDB<br>
-SakhiSecure — Women safety application with Flask, MySQL, real-time GPS tracking & emergency alerts
-ConnectCare+ 🏆 — AI-enabled telehealth platform, Top 5 finalist at YCC CodeRush Hackathon
-ChroniTwin — AI-powered digital twin system for memory preservation and identity insights
-NeuroVytis — AI-driven brain health analytics dashboard with cognitive visualizations
-EventVerse — End-to-end tech fest management platform with registrations and live updates
-CareerSaarthi — AI-powered career guidance system with personalized skill assessment
-TrisoSight — Advanced genomic visualization platform with interactive DNA and chromosome graphics
-RainSmart — IoT and machine learning based smart irrigation and rainfall prediction system
+🚀 Featured Projects<br>
+🌟 Project	💡 Description:<br>
+🔸 EduTrack — Student management and productivity platform using Node.js & MongoDB<br>
+🔹 SakhiSecure — Women safety application with Flask, MySQL, real-time GPS tracking & emergency alerts<br>
+🔸 ConnectCare+ 🏆 — AI-enabled telehealth platform, Top 5 finalist at YCC CodeRush Hackathon<br>
+🔹 ChroniTwin — AI-powered digital twin system for memory preservation and identity insights<br>
+🔸 NeuroVytis — AI-driven brain health analytics dashboard with cognitive visualizations<br>
+🔹 EventVerse — End-to-end tech fest management platform with registrations and live updates<br>
+🔸 CareerSaarthi — AI-powered career guidance system with personalized skill assessment<br>
+🔹 TrisoSight — Advanced genomic visualization platform with interactive DNA and chromosome graphics<br>
+🔸 RainSmart — IoT and machine learning based smart irrigation and rainfall prediction system<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
-🏆 Achievements & Experience
 
-🥈 2nd Place – WebCraft 2.0
-🏅 Top 5 Finalist – YCC CodeRush
-💡 Participant – Smart India Hackathon 2025
+🏆 Achievements & Experience<br>
+🥈 2nd Place – WebCraft 2.0<br>
+🏅 Top 5 Finalist – YCC CodeRush<br>
+💡 Participant – Smart India Hackathon 2025<br>
 
-🧠 Presented at:
-HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate | Genathon | WebCradt2.0 | CodeRush
+🧠 Presented at<br>
+HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate | Genathon 3.0 | WebCradt2.0 | CodeRush | Analytica
 
 👩‍💻 Internships
 
