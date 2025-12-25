@@ -60,8 +60,28 @@ HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate 
 ✔ Developed Java backend modules<br>
 ✔ Designed REST APIs using OOP principles<br>
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=22c55e&icon_color=facc15&text_color=ffffff"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=22c55e&fire=facc15&currStreakLabel=facc15"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=22c55e" /> </p>
+📊 GitHub Analytics<br>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&hide_border=true&bg_color=00000000&title_color=22c55e&icon_color=facc15&text_color=ffffff" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=kripalinigudadhe&hide_border=true&background=00000000&ring=22c55e&fire=facc15&currStreakLabel=facc15&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=ffffff" 
+    height="150"
+  />
+</p>
+
 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/kripalinigudadhe"><img src="https://img.shields.io/badge/GitHub-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kripalini-gudadhe-245702295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=000"/></a> <a href="mailto:kripalinigudadhe@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:facc15,100:16a34a&height=120&section=footer"/>
