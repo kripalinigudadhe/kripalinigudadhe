@@ -11,7 +11,7 @@
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
-🌿 About Me
+🌿 About Me:
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656952-f8e1c8f1-2d04-4c0f-9c91-52d33f1aee70.gif"/>
 
 ✨ I’m a passionate Full Stack Web Developer focused on building
@@ -23,20 +23,19 @@ clean digital experiences using modern web stacks and AI/ML concepts.
 🌱 Growth-oriented | Hackathon-driven | UI-focused problem solver
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
-🧠 Tech Stack & Skills
-🚀 Programming Languages
+🧠 Tech Stack & Skills<br>
+🚀 Programming Languages:
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark"/> </p>
-🎨 Frontend Development
+🎨 Frontend Development:
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,threejs&theme=dark"/> </p>
-⚙️ Backend & APIs
+⚙️ Backend & APIs:
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/> </p>
-🗄️ Databases & Cloud
+🗄️ Databases & Cloud:
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/> </p>
-🛠 Tools & Platforms
+🛠 Tools & Platforms:
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/> </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
-🚀 Featured Projects<br>
-🌟 Project	💡 Description:<br>
+🚀 Featured Projects:<br>
 🔸 EduTrack — Student management and productivity platform using Node.js & MongoDB<br>
 🔹 SakhiSecure — Women safety application with Flask, MySQL, real-time GPS tracking & emergency alerts<br>
 🔸 ConnectCare+ 🏆 — AI-enabled telehealth platform, Top 5 finalist at YCC CodeRush Hackathon<br>
@@ -48,12 +47,12 @@ clean digital experiences using modern web stacks and AI/ML concepts.
 🔸 RainSmart — IoT and machine learning based smart irrigation and rainfall prediction system<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 
-🏆 Achievements & Experience<br>
+🏆 Achievements & Experience:<br>
 🥈 2nd Place – WebCraft 2.0<br>
 🏅 Top 5 Finalist – YCC CodeRush<br>
 💡 Participant – Smart India Hackathon 2025<br>
 
-🧠 Presented at<br>
+🧠 Presented at:<br>
 HackSphere 2.0 | AXIS’25 | Technex | CIH | Ideathon | Hackathonix | Sitnovate | Genathon 3.0 | WebCradt2.0 | CodeRush | Analytica
 
 👩‍💻 Internships
