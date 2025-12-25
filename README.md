@@ -33,16 +33,19 @@ clean digital experiences using modern web stacks and AI/ML concepts.
 🗄️ Databases & Cloud
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/> </p>
 🛠 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/> </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🚀 Featured Projects
 🌟 Project	💡 Description
-EduTrack	Student management platform using Node.js & MongoDB
-SakhiSecure	Women safety app with Flask + MySQL, GPS & alerts
-ConnectCare+ 🏆	AI telehealth platform – Top 5 @ YCC CodeRush
-CareerSaarthi	AI-driven career guidance using ML models
-ZeroShieldAI	ML-based adaptive cybersecurity firewall
-RainSmart	IoT + ML smart irrigation system
+EduTrack — Student management and productivity platform using Node.js & MongoDB
+SakhiSecure — Women safety application with Flask, MySQL, real-time GPS tracking & emergency alerts
+ConnectCare+ 🏆 — AI-enabled telehealth platform, Top 5 finalist at YCC CodeRush Hackathon
+ChroniTwin — AI-powered digital twin system for memory preservation and identity insights
+NeuroVytis — AI-driven brain health analytics dashboard with cognitive visualizations
+EventVerse — End-to-end tech fest management platform with registrations and live updates
+CareerSaarthi — AI-powered career guidance system with personalized skill assessment
+TrisoSight — Advanced genomic visualization platform with interactive DNA and chromosome graphics
+RainSmart — IoT and machine learning based smart irrigation and rainfall prediction system
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:facc15&height=3"/>
 🏆 Achievements & Experience
 
