@@ -27,7 +27,7 @@
 🎨 Focused on **clean UI/UX & scalable systems**  
 🧠 Exploring **AI/ML for real-world problem solving**  
 
-⚡ ❤️ *Hackathon-driven • Growth-focused • Detail-oriented*
+⚡ *Hackathon-driven • Growth-focused • Detail-oriented*
 
 ---
 
