@@ -137,6 +137,10 @@
 <a href="mailto:kripalinigudadhe@gmail.com">
 <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a> 
+
+<a href="https://leetcode.com/u/kripalini_gudadhe/">
+<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
 </p>
 
 ---
@@ -146,9 +150,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-✨ *Clean • Minimal • Professional* ✨  
-
-</div>
