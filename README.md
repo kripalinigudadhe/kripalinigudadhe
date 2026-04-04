@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,40:374151,75:9CA3AF,100:D1D5DB&height=250&section=header&text=Kripalini%20Gudadhe&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20UI%20Specialist&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,40:374151,75:9CA3AF,100:D1D5DB&height=250&section=header&text=Kripalini%20Gudadhe&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20UI%20Specialist&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
 </div>
 
 <div align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%20%2B%20UX%20Focused;Hackathon%20Finalist;AI%20%26%20ML%20Explorer;Building%20Clean%20Systems"/> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=E5E7EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%20%2B%20UX%20Focused;Hackathon%20Finalist;AI%20%26%20ML%20Explorer;Building%20Clean%20Systems"/> 
 </div>
 
 ---
