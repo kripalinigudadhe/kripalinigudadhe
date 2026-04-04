@@ -107,10 +107,10 @@
 <div align="center">
 
 🧠 **Problem Solver Mode**  
-██████████░░░░░░ 70%  
+█████████████░░ 89%  
 
 🎨 **UI/UX Creativity**  
-████████████░░░ 85%  
+██████████████░ 92%  
 
 ⚙️ **Backend Engineering**  
 ███████████░░░░ 75%  
