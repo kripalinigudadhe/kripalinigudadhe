@@ -142,7 +142,7 @@
 ---
 
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:D1D5DB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,50:374151,100:D1D5DB&height=120&section=footer"/>
 </div>
 
 ---
