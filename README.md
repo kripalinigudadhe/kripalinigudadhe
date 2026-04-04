@@ -120,13 +120,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kripalinigudadhe&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
 
 ---
 
