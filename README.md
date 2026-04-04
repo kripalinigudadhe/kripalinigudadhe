@@ -102,19 +102,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:D1D5DB&height=3"/>
 
-## 📊 GitHub Analytics  
+## ✨ Developer Identity  
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=kripalinigudadhe&show_icons=true&theme=transparent&title_color=6B7280&icon_color=9CA3AF&text_color=E5E7EB"/> 
-</p> 
+<div align="center">
 
-<p align="center"> 
-<img src="https://nirzak-streak-stats.vercel.app/?user=kripalinigudadhe&theme=transparent&ring=6B7280&fire=9CA3AF&currStreakLabel=6B7280"/> 
-</p> 
+🧠 **Problem Solver Mode**  
+██████████░░░░░░ 70%  
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripalinigudadhe&layout=compact&theme=transparent&title_color=6B7280" /> 
-</p>
+🎨 **UI/UX Creativity**  
+████████████░░░ 85%  
+
+⚙️ **Backend Engineering**  
+███████████░░░░ 75%  
+
+🚀 **Learning & Growth**  
+██████████████░ 95%  
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kripalinigudadhe&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+
+</div>
 
 ---
 
