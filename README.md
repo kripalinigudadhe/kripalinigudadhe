@@ -126,9 +126,9 @@
 ## 🌐 Connect With Me  
 
 <p align="center"> 
-<a href="https://github.com/kripalinigudadhe">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a> 
+<a href="https://leetcode.com/u/kripalini_gudadhe/">
+<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
 
 <a href="https://www.linkedin.com/in/kripalini-gudadhe-245702295">
 <img src="https://img.shields.io/badge/LinkedIn-6B7280?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
@@ -138,9 +138,7 @@
 <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a> 
 
-<a href="https://leetcode.com/u/kripalini_gudadhe/">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
+
 </p>
 
 ---
